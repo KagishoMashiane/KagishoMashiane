@@ -7,11 +7,11 @@
 
 <h2>📺 Project Videos</h2>
 
-- 
+-
 
 <h2>📄 Certificates</h2>
 
--
+- [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/ef73e0f6-15f9-4b9b-8c0b-b6c41c528f31/public_url)
 
 <h2> 📲 Connect with me:</h2>
 
