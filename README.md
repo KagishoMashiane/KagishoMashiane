@@ -12,6 +12,7 @@
 <h2>📄 Certificates</h2>
 
 - [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/ef73e0f6-15f9-4b9b-8c0b-b6c41c528f31/public_url)
+- [AWS Cloud Quest: Solutions Architect](https://www.credly.com/badges/d615603f-d3be-4068-8f67-5f11c181d289/public_url)
 
 <h2> 📲 Connect with me:</h2>
 
