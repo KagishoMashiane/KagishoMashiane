@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cloud Computing Projects:</h2>
 
-- <b>AWS Cloud Projects</b>
+- [IaC - AWS CDK Project](https://www.credly.com/badges/ef73e0f6-15f9-4b9b-8c0b-b6c41c528f31/public_url)
 
 
 <h2>📺 Project Videos</h2>
