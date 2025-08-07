@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cloud Computing Projects:</h2>
 
-- [IaC - AWS CDK Project](https://github.com/KagishoMashiane/IaC-AWS-CDK-Project)
+- [Infrustructure as Code - AWS CDK Project](https://github.com/KagishoMashiane/IaC-AWS-CDK-Project)
 
 
 <h2>📺 Project Videos</h2>
