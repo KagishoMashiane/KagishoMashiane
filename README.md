@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cloud Computing Projects:</h2>
 
 - [Infrustructure as Code - AWS CDK Project](https://github.com/KagishoMashiane/IaC-AWS-CDK-Project)
-- [IaC Serverless Website - Terraform]
+- [IaC Serverless Website - Terraform](https://github.com/KagishoMashiane/IaC-terraform-serverless-app)
 
 <h2>📺 Project Videos</h2>
 
