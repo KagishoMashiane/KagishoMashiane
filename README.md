@@ -1,5 +1,8 @@
 <h1>Hi, I'm Kagisho! </h1>
 
+<h2>👨‍💻 Data Projects:</h2>
+-
+
 <h2>👨‍💻 Cloud Computing Projects:</h2>
 
 - [Infrustructure as Code - AWS CDK Project](https://github.com/KagishoMashiane/IaC-AWS-CDK-Project)
